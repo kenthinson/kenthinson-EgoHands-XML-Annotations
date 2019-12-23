@@ -1,0 +1,56 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>JENGA_COURTYARD_B_H_frame_0044.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation></annotation>
+		<image>flickr</image>
+		<flickrid>341012865</flickrid>
+	</source>
+	<owner>
+		<flickrid>Fried Camels</flickrid>
+		<name>Jinky the Fruit Bat</name>
+	</owner>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>undefined</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>669</xmin>
+			<ymin>568</ymin>
+			<xmax>853</xmax>
+			<ymax>719</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hand</name>
+		<pose>undefined</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>631</xmin>
+			<ymin>341</ymin>
+			<xmax>733</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hand</name>
+		<pose>undefined</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>472</xmin>
+			<ymin>387</ymin>
+			<xmax>486</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+</annotation>

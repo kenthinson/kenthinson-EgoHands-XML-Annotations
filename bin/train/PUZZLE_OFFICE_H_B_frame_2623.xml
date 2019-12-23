@@ -1,0 +1,56 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>PUZZLE_OFFICE_H_B_frame_2623.jpg</filename>
+	<source>
+		<database>The VOC2007 Database</database>
+		<annotation></annotation>
+		<image>flickr</image>
+		<flickrid>341012865</flickrid>
+	</source>
+	<owner>
+		<flickrid>Fried Camels</flickrid>
+		<name>Jinky the Fruit Bat</name>
+	</owner>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>undefined</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>687</xmin>
+			<ymin>487</ymin>
+			<xmax>871</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hand</name>
+		<pose>undefined</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>982</xmin>
+			<ymin>375</ymin>
+			<xmax>1181</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hand</name>
+		<pose>undefined</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>358</ymin>
+			<xmax>254</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>
